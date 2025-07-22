@@ -18,8 +18,8 @@ This is a basic keylogger written in Python using the `pynput` library. It captu
 1.  **Clone the repository (or download the script):**
 
 ```
-    git clone 
-    cd dir
+    git clone https://github.com/EbiScott/pyKeylogger
+    cd pyKeylogger
 ```
 
 
